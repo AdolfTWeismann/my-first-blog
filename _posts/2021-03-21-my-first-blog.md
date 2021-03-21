@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title:  "我的第一篇文章"

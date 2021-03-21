@@ -1,6 +1,5 @@
 
 
-```
 ---
 layout: post
 title:  "我的第一篇文章"
@@ -8,7 +7,6 @@ background: "/assets/images/2020-11-27.jpg"
 category: "工作"
 tags: 感悟
 ---
-```
 
 
 
